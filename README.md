@@ -14,7 +14,6 @@ This repository contains all the protocols and assignments completed during the 
 6. [ADC Protocol](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/ADC/)
 5. [ADC Example](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/Examples/RainSensor/rainSensor.c)
 7. [UART Communication](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/UART/)
-8. [Keypad](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/Keypad/)
 
 Each protocol folder contains the source code implementation of the protocols with related examples.
 
