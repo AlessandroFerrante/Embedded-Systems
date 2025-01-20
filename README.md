@@ -8,8 +8,10 @@ This repository contains all the protocols and assignments completed during the 
 1. [Introduction to STM32 and GPIO with Digital IO](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/DigitalIO/)
 2. [Display](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/Display)
 3. [Display Example](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/Examples/GasStation/gasStation.c)
-4. [Timers](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/Timers/)
-5. [Timer Example](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/Timers/GasStation/gasStationWithTimer.c)
+4. [Timers - IRQ - PWM](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/Timers/)
+5. [Timer Example](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/Examples/GasStation/gasStationWithTimer.c)
+6. [TImer with IRQ Example](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/Examples/AutomaticGate/automaticGate.c)
+   
 
 Each protocol folder contains the source code implementation of the protocols with related examples.
 
