@@ -11,7 +11,8 @@ This repository contains all the protocols and assignments completed during the 
 4. [Timers - IRQ - PWM](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/Timers/)
 5. [Timer Example](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/Examples/GasStation/gasStationWithTimer.c)
 6. [TImer with IRQ Example](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/Examples/AutomaticGate/automaticGate.c)
-   
+6. [ADC Protocol](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/ADC/)
+5. [ADC Example](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/Examples/RainSensor/rainSensor.c)
 
 Each protocol folder contains the source code implementation of the protocols with related examples.
 
