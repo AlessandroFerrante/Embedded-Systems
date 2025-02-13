@@ -138,6 +138,7 @@ I2C (Inter-Integrated Circuit) is a **serial digital communication bus** standar
 
 ## File
 - [mems.c](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/I2C/MEMS/mems.c): implementation of acellerometer and gyroscope sensor;
+- [tcs.c](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/I2C/ColorSensor/tcs.c): color sensor implementation;
 
 ## Requirements
 - Visual Studio Code with the [PlatformIO](https://platformio.org/).
