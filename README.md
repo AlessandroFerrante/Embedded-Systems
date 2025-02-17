@@ -18,6 +18,7 @@ This repository contains all the protocols and assignments completed during the 
 7. [UART Communication](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/UART/)
 9.  [I2C Communication Protocol](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/I2C/)
 10. [SPI Communication Protocol](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/SPI/) 
+11. [ExamTraining](https://github.com/AlessandroFerrante/Embedded-Systems/blob/main/ExamTraining/) 
 
 Each protocol folder contains the source code implementation of the protocols with related examples.
 
